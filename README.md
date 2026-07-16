@@ -20,6 +20,6 @@ huawei-technical-test/
 │   └── cron-data/          # Folder output hasil collect data .csv (Dibuat otomatis)
 │
 ├── sql-queries/
-│   └── queries.sql         # Kumpulan query SQL (Create, Insert, Update, Select Database SQL Server)
+│   └── queries.sql         # Kumpulan query SQL (Create, Insert, Update)
 │
 └── README.md               # Dokumentasi Setup
