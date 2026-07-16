@@ -1,7 +1,3 @@
--- =========================================================
--- Data Processing - Employees (versi MySQL / phpMyAdmin)
--- =========================================================
-
 -- Buat tabel Employees
 CREATE TABLE Employees (
     Name VARCHAR(10) NULL,
